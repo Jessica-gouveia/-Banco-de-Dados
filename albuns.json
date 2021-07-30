@@ -1,0 +1,51 @@
+{
+    "albuns": [
+       {"nome": "Dangerously in Love",
+        "cantora": "Beyoncé",
+        "ano": 2003,
+        "faixas": 18,
+        "singles": ["Crazy in Love",  "Naughty Girl","Baby Boy", "Me, Myself and I", "Dangerously in Love"],
+        "grammy": true
+    },
+    {
+        "nome": "B'Day Deluxe",
+        "cantora": "Beyoncé",
+        "ano": 2007,
+        "faixas": 23,
+        "singles":["Beautiful Liar", "Irreplaceable", "Déjá Vu", "Ring the Alarm", "Get Me Bodied", "Green Light" ],
+        "grammy": true
+    },
+    {
+        "nome": "I'am... Sasha Fierce",
+        "cantora": "Beyoncé",
+        "ano": 2009,
+        "faixas": 18,
+        "singles":["Single Ladies(Put a Ring on it!)", "Sweet Dreams", "Ego", "Halo", "If I Were a Boy", "Broken-hearted Girl", "Diva", "Video Phone(feat. Lady Gaga)" ],
+        "grammy": true
+    },
+    {
+        "nome": "4",
+        "cantora":"Beyoncé",
+        "ano": 2011,
+        "faixas": 11,
+        "singles":["Run the World(Girls)", "Best Thing I Never Had", "Love On Top", "Party", "Countdown"],
+        "grammy": true
+    },
+    {
+        "nome": "BEYONCÉ",
+        "cantora": "Beyoncé",
+        "ano": 2013,
+        "faixas": 14,
+        "singles":["Pretty Hurts", "Drunk in Love", "Partition", "XO", "Flawless"],
+        "grammy": true
+    },
+    {
+        "nome": "LEMONADE",
+        "cantora": "Beyoncé",
+        "ano": 2016,
+        "faixas": 13,
+        "singles": ["Formation", "Sorry", "Hold Up", "Freedom", "All Night"],
+        "grammy": true
+    }
+    ]
+}
